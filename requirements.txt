@@ -1,0 +1,5 @@
+streamlit
+PyPDF2
+google.generativeai
+python-dotenv
+fsspec[http]>=2023.1.0,<2024.2.1
